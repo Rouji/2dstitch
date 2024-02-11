@@ -15,3 +15,8 @@ ffmpeg -i example.mp4 img/%06d.png
 
 find img/ -type f | sort | xargs python3 -m 2dstitch example.png
 ```
+
+
+https://github.com/Rouji/2dstitch/assets/17692001/817fc101-eb5f-4ba9-af05-da49b677265c
+
+![example](https://github.com/Rouji/2dstitch/assets/17692001/917d6ade-6060-4720-9522-35cd05fa8bff)
